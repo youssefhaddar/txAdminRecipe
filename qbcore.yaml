@@ -133,11 +133,6 @@ tasks:
     src: https://github.com/qbcore-framework/qb-prison
 
   - action: download_github
-    dest: ./resources/[qb]/qb-blackjack
-    ref: main
-    src: https://github.com/qbcore-framework/qb-blackjack
-
-  - action: download_github
     dest: ./resources/[qb]/qb-atms
     ref: main
     src: https://github.com/qbcore-framework/qb-atms
